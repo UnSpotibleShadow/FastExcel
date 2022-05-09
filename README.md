@@ -1,5 +1,6 @@
 # Fast Excel
 
+Forked Version with the intention of trying to maintain since OP seems to have abandoned project
 
 #### Build / Release
 ![Build status](https://github.com/ahmedwalid05/FastExcel/workflows/Build/badge.svg)
